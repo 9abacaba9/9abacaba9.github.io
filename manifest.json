@@ -1,0 +1,15 @@
+{
+  "short_name": "CRK2",
+  "name": "CRK2",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ff8c00",
+  "background_color": "#ff8c00"
+}
